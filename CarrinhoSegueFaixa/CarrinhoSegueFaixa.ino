@@ -3,7 +3,7 @@
 #define motorDF 3 // Motor DIREITO anda para FRENTE
 #define motorDT 5 // Motor DIREITO anda para TRÁS
 #define SensorEsquerdo A0 // Pino analógico para o sensor do lado ESQUERDO
-#define SensorDireito A1 // Pino analógico para o sensor do lado DIREITO
+#define SensorDireito A1 // Pino analógico para o sensor do lado DIREIT1
 
 #define velocidade 250 //Controle de velocidade do PWM
 #define branco 100 //Definição da intensidade do branco
