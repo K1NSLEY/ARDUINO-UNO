@@ -7,7 +7,7 @@
 
 #define velocidade 250 //Controle de velocidade do PWM
 #define branco 100 //Definição da intensidade do branco
-#define preto 250 //Definição da intensidade do preto
+#define preto 250 //Definição da intensidade do pretods
 
 void setup(){
 }
